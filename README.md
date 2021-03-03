@@ -1,6 +1,6 @@
 <h3 align="center">!Hola! 👋 Mi nombre es Fran 💻</h3>
 
-<p align="center">Soy **Desarrollador senior Full Stack** con más de 15 años de experiencia en la programación web.</p>
+<p align="center">Soy <strong>Desarrollador senior Full Stack</strong> con más de 15 años de experiencia en la programación web.</p>
 
 <p align="center">Amante del código limpio, bien estructurado y debidamente testeado.</p>
 
