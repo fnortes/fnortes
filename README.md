@@ -1,4 +1,6 @@
-<p align="center"><h3># !Hola! 👋 Mi nombre es Fran 💻</h3></p>
+<p align="center" width="300">
+  <h3>!Hola! 👋 Mi nombre es Fran 💻</h3>
+</p>
 
 <p align="center">Soy **Desarrollador senior Full Stack** con más de 15 años de experiencia en la programación web.</p>
 
